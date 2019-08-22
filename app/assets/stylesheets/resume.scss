@@ -2,8 +2,9 @@
 // They will automatically be included in application.css.
 // You can use Sass (SCSS) here: http://sass-lang.com/
 
-@impoart url('https://fonts.googleapis.com/css?family=Varela+Round&display=swap')
+@import url('https://fonts.googleapis.com/css?family=Varela+Round&display=swap');
 
 h1 {
 	font-family: 'Varela Round', sans-serif;
+	text-transform: uppercase;
 }

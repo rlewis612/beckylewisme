@@ -11,4 +11,7 @@ class Resume extends React.Component {
   }
 }
 
+Resume.propTypes = {
+  greeting: PropTypes.string
+};
 export default Resume
